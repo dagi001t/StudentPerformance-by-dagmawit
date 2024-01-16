@@ -36,5 +36,5 @@ In this exploration of the student performance dataset, several noteworthy insig
 
 
 
-   PREPARED BY: DAGMAWIT TSGAYE 
+   PREPARED BY: DAGMAWIT TSEGAYE 
    ID: 1895/12
