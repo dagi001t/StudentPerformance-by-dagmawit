@@ -1,0 +1,386 @@
+[
+ {
+   "Hours": 2.5,
+   "Scores": 21
+ },
+ {
+   "Hours": 5.1,
+   "Scores": 47
+ },
+ {
+   "Hours": 3.2,
+   "Scores": 27
+ },
+ {
+   "Hours": 8.5,
+   "Scores": 75
+ },
+ {
+   "Hours": 3.5,
+   "Scores": 30
+ },
+ {
+   "Hours": 1.5,
+   "Scores": 20
+ },
+ {
+   "Hours": 9.2,
+   "Scores": 88
+ },
+ {
+   "Hours": 5.5,
+   "Scores": 60
+ },
+ {
+   "Hours": 8.3,
+   "Scores": 81
+ },
+ {
+   "Hours": 2.7,
+   "Scores": 25
+ },
+ {
+   "Hours": 7.7,
+   "Scores": 85
+ },
+ {
+   "Hours": 5.9,
+   "Scores": 62
+ },
+ {
+   "Hours": 4.5,
+   "Scores": 41
+ },
+ {
+   "Hours": 3.3,
+   "Scores": 42
+ },
+ {
+   "Hours": 1.1,
+   "Scores": 17
+ },
+ {
+   "Hours": 8.9,
+   "Scores": 95
+ },
+ {
+   "Hours": 2.5,
+   "Scores": 30
+ },
+ {
+   "Hours": 1.9,
+   "Scores": 24
+ },
+ {
+   "Hours": 6.1,
+   "Scores": 67
+ },
+ {
+   "Hours": 7.4,
+   "Scores": 69
+ },
+ {
+   "Hours": 2.7,
+   "Scores": 30
+ },
+ {
+   "Hours": 4.8,
+   "Scores": 54
+ },
+ {
+   "Hours": 3.8,
+   "Scores": 35
+ },
+ {
+   "Hours": 6.9,
+   "Scores": 76
+ },
+ {
+   "Hours": 7.8,
+   "Scores": 86
+ },
+ {
+   "Hours": 4.2,
+   "Scores": 49
+ },
+ {
+   "Hours": 9.5,
+   "Scores": 90
+ },
+ {
+   "Hours": 5.8,
+   "Scores": 63
+ },
+ {
+   "Hours": 2.3,
+   "Scores": 23
+ },
+ {
+   "Hours": 4.7,
+   "Scores": 50
+ },
+ {
+   "Hours": 1.6,
+   "Scores": 19
+ },
+ {
+   "Hours": 9,
+   "Scores": 92
+ },
+ {
+   "Hours": 6.2,
+   "Scores": 68
+ },
+ {
+   "Hours": 8.1,
+   "Scores": 82
+ },
+ {
+   "Hours": 3.9,
+   "Scores": 38
+ },
+ {
+   "Hours": 2.2,
+   "Scores": 22
+ },
+ {
+   "Hours": 7.1,
+   "Scores": 73
+ },
+ {
+   "Hours": 6.3,
+   "Scores": 66
+ },
+ {
+   "Hours": 5.3,
+   "Scores": 56
+ },
+ {
+   "Hours": 4.4,
+   "Scores": 45
+ },
+ {
+   "Hours": 1.8,
+   "Scores": 21
+ },
+ {
+   "Hours": 9.4,
+   "Scores": 93
+ },
+ {
+   "Hours": 6.7,
+   "Scores": 71
+ },
+ {
+   "Hours": 3.7,
+   "Scores": 37
+ },
+ {
+   "Hours": 7.3,
+   "Scores": 77
+ },
+ {
+   "Hours": 4.1,
+   "Scores": 44
+ },
+ {
+   "Hours": 8,
+   "Scores": 79
+ },
+ {
+   "Hours": 3.1,
+   "Scores": 28
+ },
+ {
+   "Hours": 1.3,
+   "Scores": 16
+ },
+ {
+   "Hours": 5.7,
+   "Scores": 59
+ },
+ {
+   "Hours": 2.8,
+   "Scores": 29
+ },
+ {
+   "Hours": 7.9,
+   "Scores": 80
+ },
+ {
+   "Hours": 6.6,
+   "Scores": 72
+ },
+ {
+   "Hours": 3.6,
+   "Scores": 36
+ },
+ {
+   "Hours": 2.4,
+   "Scores": 26
+ },
+ {
+   "Hours": 4.6,
+   "Scores": 48
+ },
+ {
+   "Hours": 8.4,
+   "Scores": 84
+ },
+ {
+   "Hours": 1.7,
+   "Scores": 18
+ },
+ {
+   "Hours": 5.2,
+   "Scores": 53
+ },
+ {
+   "Hours": 6.4,
+   "Scores": 64
+ },
+ {
+   "Hours": 7.6,
+   "Scores": 78
+ },
+ {
+   "Hours": 9.3,
+   "Scores": 94
+ },
+ {
+   "Hours": 3.4,
+   "Scores": 33
+ },
+ {
+   "Hours": 2.1,
+   "Scores": 20
+ },
+ {
+   "Hours": 5.4,
+   "Scores": 55
+ },
+ {
+   "Hours": 8.2,
+   "Scores": 83
+ },
+ {
+   "Hours": 1.4,
+   "Scores": 15
+ },
+ {
+   "Hours": 9.6,
+   "Scores": 98
+ },
+ {
+   "Hours": 6.8,
+   "Scores": 74
+ },
+ {
+   "Hours": 7.5,
+   "Scores": 70
+ },
+ {
+   "Hours": 4.3,
+   "Scores": 43
+ },
+ {
+   "Hours": 6.5,
+   "Scores": 65
+ },
+ {
+   "Hours": 8.7,
+   "Scores": 87
+ },
+ {
+   "Hours": 3,
+   "Scores": 27
+ },
+ {
+   "Hours": 2.9,
+   "Scores": 31
+ },
+ {
+   "Hours": 1.2,
+   "Scores": 14
+ },
+ {
+   "Hours": 9.7,
+   "Scores": 96
+ },
+ {
+   "Hours": 4.9,
+   "Scores": 51
+ },
+ {
+   "Hours": 5.6,
+   "Scores": 57
+ },
+ {
+   "Hours": 8.6,
+   "Scores": 89
+ },
+ {
+   "Hours": 2.6,
+   "Scores": 32
+ },
+ {
+   "Hours": 7.2,
+   "Scores": 72
+ },
+ {
+   "Hours": 1,
+   "Scores": 12
+ },
+ {
+   "Hours": 6,
+   "Scores": 61
+ },
+ {
+   "Hours": 4,
+   "Scores": 40
+ },
+ {
+   "Hours": 5,
+   "Scores": 52
+ },
+ {
+   "Hours": 6.8,
+   "Scores": 67
+ },
+ {
+   "Hours": 2,
+   "Scores": 18
+ },
+ {
+   "Hours": 3,
+   "Scores": 34
+ },
+ {
+   "Hours": 7,
+   "Scores": 73
+ },
+ {
+   "Hours": 9.8,
+   "Scores": 99
+ },
+ {
+   "Hours": 5.8,
+   "Scores": 60
+ },
+ {
+   "Hours": 4.4,
+   "Scores": 44
+ },
+ {
+   "Hours": 6.1,
+   "Scores": 63
+ },
+ {
+   "Hours": 3.7,
+   "Scores": 37
+ },
+ {
+   "Hours": 8,
+   "Scores": 84
+ }
+]
